@@ -1,0 +1,1 @@
+window.post={"title":"回归","date":"2010-06-01 23:22:25","cate":"无心录","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_5c423a4a0100idb2.html","content":"<p>经过一段时间的波折</p>\n<p>生活开始走向正轨</p>\n<p>接下来就可以开始更新博客了</p>\n<p>希望是个好的开始</p>\n<p>fighting！</p>"}

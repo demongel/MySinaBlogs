@@ -1,0 +1,1 @@
+window.post={"title":"2012-04-09&nbsp;&nbsp;求心情持续低落14天","date":"2012-04-09 23:09:08","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_5c423a4a0100yr91.html","content":"&nbsp;&nbsp;&nbsp;如题，没有了。欢迎死后鞭尸。"}
